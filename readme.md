@@ -42,7 +42,39 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **7. Abbreviation dan Acronym**
  
  Abbreviation dan Acronym ini di gunakan untuk menjelaskan kepanjangan dari suatu singkatan, dimana saat teks di hover maka akan ada pop up teks kepanjangan nya. untuk mengisi atau menampilakan kepanjangannya maka di dalam tag pembuka nya harus di tambahkan title="teks" 
+ 
+**8. List**
 
+ Ordered list digunakan untuk membuat list yang memiliki urutan angka secara berurutan. 
+ 
+ Unordered list digunakan untuk membuat list tanpa ada urutan angka dan hanya ada point saja.
+ 
+ Definition list diguakan untuk membuat list definisi, yang strukutur nya definisi list, definisi title, dan definisi nya.
+ 
+ Pada list kita bisa membuat list di dalam list, misal kita dapat membuat Ordered list di dalam Unordered list.
+ 
+**9. Link dan Multi Page**
+
+ Link atau bisa disebut hyperlink, diguakan untuk action click untuk mengarahkan kita ke halaman lain, dengan mengatur href di dalam tag nya.
+
+**10. HTML Atributes**
+
+ HTML Atributes sendiri itu terletak didalam tag pembuka dalam HTML, contoh nya seperti style, href, title, id, dan semacamnya.
+ 
+**11. Table**
+
+ strukutur table di html itu table, table row(tr), table header(th) dan table data(td), untuk memperjelas table kita dapat menggunakan atribute border di tag table.
+
+**12. Form**
+
+ form di dalam nya kita memiliki input dan select, yang fungsi nya sama untuk mengisi data. 
+ 
+ Untuk input sendiri ada berbagai type seperti button, text, password, radio, checkbox, dll.
+ 
+ Untuk select kita memberikan opsi untuk user mengisi data yang sesuai.
+ 
+ 
+ 
 **B. Latihan Soal**
 <br>
 <br>
