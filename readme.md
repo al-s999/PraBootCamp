@@ -78,9 +78,29 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **B. Latihan Soal**
 <br>
 <br>
-**1. Preview Latihan Soal 1**
+**1. Preview Latihan Soal 1 - Cerita**
    
    <img width="1920" height="1080" alt="Screenshot_20261017_184719" src="https://github.com/user-attachments/assets/444d356c-c894-467b-81a1-9dbb3377abe4" />
+
+<br>
+<br>
+
+**2. Preview Latihan Soal 2 - MultiPage**
+<br>
+<br>
+**Beranda**
+<img width="1920" height="1080" alt="Screenshot_20261018_005713" src="https://github.com/user-attachments/assets/bed28e30-a375-4a86-b815-e7587cae71c0" />
+<br>
+<br>
+**Daftar Buku (Table)**
+<img width="1920" height="1080" alt="Screenshot_20261018_005721" src="https://github.com/user-attachments/assets/9ead12f8-c366-4acc-bd29-76a48efc45e4" />
+<br>
+<br>
+**Contact**
+<img width="1920" height="1080" alt="Screenshot_20261018_005726" src="https://github.com/user-attachments/assets/f0264a67-1d3e-4592-821f-46620522aecf" />
+
+
+
 
 
 
