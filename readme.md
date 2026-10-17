@@ -18,9 +18,7 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **4. Underline, Superscript, dan Subscript**
  
  Underline seperti nama nya ini digunakan untuk membuat teks memiliki underline.
- 
  Superscript ini digunakan untuk membuat teks di dalam nya menjadi lebih kecil dengan posisi lebih ke atas, ini biasa digunakan di kuadrat misal E=MC^2
- 
  Subscript ini kebalikan dari Superscript yakni ia membuat teks di dalam nya lebih kecil dengan posisi lebih kebawah, contoh nya seperti dalam penulisan CO2
 
 **5. Line Break dan Horizontal Rule**
@@ -46,11 +44,8 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **8. List**
 
  Ordered list digunakan untuk membuat list yang memiliki urutan angka secara berurutan. 
- 
  Unordered list digunakan untuk membuat list tanpa ada urutan angka dan hanya ada point saja.
- 
  Definition list diguakan untuk membuat list definisi, yang strukutur nya definisi list, definisi title, dan definisi nya.
- 
  Pada list kita bisa membuat list di dalam list, misal kita dapat membuat Ordered list di dalam Unordered list.
  
 **9. Link dan Multi Page**
@@ -68,9 +63,7 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **12. Form**
 
  form di dalam nya kita memiliki input dan select, yang fungsi nya sama untuk mengisi data. 
- 
  Untuk input sendiri ada berbagai type seperti button, text, password, radio, checkbox, dll.
- 
  Untuk select kita memberikan opsi untuk user mengisi data yang sesuai.
  
  
