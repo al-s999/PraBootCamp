@@ -104,6 +104,23 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
 **Contact**
 <img width="1920" height="1080" alt="Screenshot_20261018_005726" src="https://github.com/user-attachments/assets/f0264a67-1d3e-4592-821f-46620522aecf" />
 
+<br>
+<br>
+
+**3. Preview Latihan Soal 3 dan 4 - Multimedia**
+<br>
+<br>
+**Beranda**
+<img width="1920" height="1080" alt="Screenshot_20261018_014629" src="https://github.com/user-attachments/assets/c30db48a-0520-4610-b6e1-d1f3b5100cbd" />
+<br>
+<br>
+**Daftar Buku (Table)**
+<img width="1920" height="1080" alt="Screenshot_20261018_014639" src="https://github.com/user-attachments/assets/7e7c98cd-bb39-4a6e-8c9f-3ef4d818215c" />
+<br>
+<br>
+**Contact**
+<img width="1920" height="1080" alt="Screenshot_20261018_014647" src="https://github.com/user-attachments/assets/36d48b5e-0af2-4725-8909-2229da059eaa" />
+
 
 
 
