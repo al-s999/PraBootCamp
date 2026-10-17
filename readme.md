@@ -39,7 +39,8 @@
 7. Abbreviation dan Acronym
  
  Abbreviation dan Acronym ini di gunakan untuk menjelaskan kepanjangan dari suatu singkatan, dimana saat teks di hover maka akan ada pop up teks kepanjangan nya. untuk mengisi atau menampilakan kepanjangannya maka di dalam tag pembuka nya harus di tambahkan title="teks" 
- 
+
+8. Preview Latihan Soal 1
 
 
  
