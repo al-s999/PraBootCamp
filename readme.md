@@ -41,6 +41,9 @@
  Abbreviation dan Acronym ini di gunakan untuk menjelaskan kepanjangan dari suatu singkatan, dimana saat teks di hover maka akan ada pop up teks kepanjangan nya. untuk mengisi atau menampilakan kepanjangannya maka di dalam tag pembuka nya harus di tambahkan title="teks" 
 
 8. Preview Latihan Soal 1
+   
+   <img width="1920" height="1080" alt="Screenshot_20261017_184719" src="https://github.com/user-attachments/assets/444d356c-c894-467b-81a1-9dbb3377abe4" />
+
 
 
  
