@@ -66,7 +66,19 @@ HTML(Hyper Text Markup Language) adalah file yang kita akses ketika membuka webs
  Untuk input sendiri ada berbagai type seperti button, text, password, radio, checkbox, dll.
  Untuk select kita memberikan opsi untuk user mengisi data yang sesuai.
  
+**13. Image**
+
+ Untuk memasukkan image kita dapat pakai tag img, dengan atribute src untuk lokasi atau link imagenya, dan stylenya. kemudian atribute alt untuk ditampilkan ketika gambar tidak termuat, dan title untuk memunculkan pop up ketika hover image.
  
+**14. Video**
+
+ Untuk memasukkan video kita dapat menggunakan tag video, dengan atributes yang sama seperti di img untuk pengaturannya, tapi pada video kita dapat menggunakan atribute controls untuk menampilakan menu control pada video nya.
+ 
+ lalu atribute poster untuk menampilakan gambar poster ketika video belum diputar. Ada juga atribute autoplay untuk memutar Video langsung tanpa ada action apapun. kemudian ada preload, ini diguakan untuk set kapan ia memuat videonya, lalu loop untuk selalu mengulang video saat sudah berakhir.
+ 
+**15. Music**
+
+ Untuk memasukkan music kita dapat menggunakan tag audio, dengan atribute sama seperti video, 
  
 **B. Latihan Soal**
 <br>
