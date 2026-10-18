@@ -3,7 +3,7 @@
 <br>
 **1. Apa itu CSS ?**
  
- CSS(Cascading Style Sheet) adalah file yang mengatur style atau UI dari website kita. Untuk menggunakannya ada berbagai cara :
+ CSS (Cascading Style Sheet) adalah file yang mengatur style atau UI dari website kita. Untuk menggunakannya ada berbagai cara :
 
  - Kita dapat memasukkannya di atribute style pada tag HTML (inline CSS), 
  - Kita dapat memasukkan di tag style di dalam head html (Internal CSS)
@@ -82,8 +82,8 @@
 <br>
 <br>
 **1. Preview Latihan Soal 1 - Text**
-   
-   
+
+<img width="1920" height="1080" alt="Screenshot_20261018_205955" src="https://github.com/user-attachments/assets/57ee9f16-4abb-4d99-ae07-4caea1d9a161" />
 
 <br>
 <br>
@@ -92,6 +92,7 @@
 <br>
 <br>
 
+<img width="1920" height="1080" alt="Screenshot_20261018_214706" src="https://github.com/user-attachments/assets/e08292c4-202f-4e13-8327-f73935e678ba" />
 
 <br>
 <br>
@@ -100,7 +101,7 @@
 <br>
 <br>
 
-
+<img width="1920" height="1080" alt="Screenshot_20261018_231616" src="https://github.com/user-attachments/assets/88666e55-4e1e-4727-85d4-6e65b0d1eefa" />
 
 
 
