@@ -1,0 +1,38 @@
+* {
+    font-family: Tahoma;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: Times;
+    background-color: #efefef;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    background-color: gray;
+    color: beige;
+    padding: 10px;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgba(100, 25, 0, 0.2);
+}
+
+h3>span {
+    font-family: Arial;
+    color: crimson;
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+span {
+    color: blue;
+}

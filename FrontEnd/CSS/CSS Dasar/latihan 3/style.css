@@ -1,0 +1,79 @@
+.bo {
+    width: fit-content;
+    height: fit-content;
+    background-color: gray;
+    font-size: 30px;
+    margin: 100px;
+    padding: 10px;
+}
+
+p.hello b{
+    font-family: Arial;
+    font-weight: bold;
+    background-color:springgreen;
+    color: black;
+    border: 4px solid white;
+}
+
+p.hello {
+    background-color: coral;
+    width: fit-content;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 5px solid red;
+}
+
+.box1 {
+    width: 400px;
+    height: 100px;
+    background-color: blanchedalmond;
+}
+
+.box1 p {
+    width: 75%;
+    height: 75%;
+    background-color: aqua;
+}
+
+.box2 {
+    width: 400px;
+    height: 200px;
+    background-color:antiquewhite;
+}
+
+.box2 h2 {
+    width: 25%;
+    background-color:whitesmoke;
+}
+
+.box2 p {
+    background-color:cornflowerblue;
+}
+
+td {
+    background-color: cadetblue;
+}
+
+td.desc {
+    min-width: 450px;
+    max-width: 500px;
+    background-color: orange;
+}
+
+h2,h3 {
+    font-family: Arial;
+    color: cornflowerblue;
+}
+
+p.judul {
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+p.sub {
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+}

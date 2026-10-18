@@ -1,0 +1,40 @@
+* {
+    font-family: Tahoma;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.ar {
+    font-size: 20px;
+}
+
+.credit {
+    font-size: 12px;
+}
+
+.penulis {
+    color: red;
+}
+
+.tanggal {
+    color: darkcyan;
+}
+
+#ar1 {
+    color: darkgoldenrod;
+}
+
+p>span {
+    color: blueviolet;
+}
+
+h3+p {
+    color: gray;
+    font-size: 14px;
+}
+
+h1~p {
+    text-align: justify;
+}
