@@ -77,6 +77,11 @@
  
  Untuk urutan dari border, padding, margin width itu jika ada 2 value maka A adalah atas-bawah, B adalah kanan-kiri . jika ada 4 value maka A adalah atas, B adalah kanan, C adalah bawah dan D adalah kiri.
 
+**10. Display Element**
+
+ Display inline, itu untuk menampilkan dalam 1 line yang sama, dan terhubung. kalau Display block ia akan mengambil space atau baris yang berbeda.
+ 
+ Kalau Display inline-block ia akan di tampilkan di line yang sama tapi masih mewarisi sifat dari block. Lalu ada display flex, ia akan menyesuaikan dengan komponen yang ada di dalam display flex.
  
 **B. Latihan Soal**
 <br>
@@ -103,9 +108,34 @@
 
 <img width="1920" height="1080" alt="Screenshot_20261018_231616" src="https://github.com/user-attachments/assets/88666e55-4e1e-4727-85d4-6e65b0d1eefa" />
 
+<br>
+<br>
+
+**4. Preview Studi Kasus 1**
+<br>
+<br>
 
 
 
+<br>
+<br>
+
+<br>
+<br>
+
+
+
+<br>
+<br>
+
+**5. Preview Studi Kasus 2**
+<br>
+<br>
+
+
+
+<br>
+<br>
 
  
  

@@ -1,0 +1,139 @@
+* {
+    font-family: Arial;
+}
+
+.header {
+    display: flex;
+    background-color: bisque;
+    padding: 10px;
+    width: 100%;
+}
+
+.headerLogo img {
+    height: 100px;
+}
+
+.headerTitle {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px;
+}
+
+.headerTitle a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav {
+    background-color: black;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.navItem {
+    display: inline;
+    margin-left: 20px;
+    height: 20px;
+}
+
+.navItem a {
+    color: white;
+    text-decoration: none;
+}
+
+.navItem a:hover {
+    color: cornflowerblue ;
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+}
+
+.content h1 {
+    color:darkslategray;
+    font-size: 35px;
+}
+
+.content h2 {
+    color: tomato;
+    font-size: 22px;
+}
+
+.table {
+    border-spacing: 4px;
+}
+
+.tableHeader {
+    background-color: bisque;
+}
+
+.tableHeader th {
+    padding: 10px;
+    text-align: left;
+}
+
+.tableContent {
+    background-color: azure;
+}
+
+.table-genap {
+    background-color: cornflowerblue;
+}
+
+.tableContent td {
+    padding: 10px;
+}
+
+td>img {
+    width: 100px;
+}
+
+.tableContent:hover {
+    background-color: aquamarine;
+}
+
+.formGroup {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formGroup label {
+    display: block;
+    font-size: 20px;
+    color: slategray;
+}
+
+.formGroup input {
+    margin-top: 10px;
+    width: 60%;
+}
+
+.formGroup textarea {
+    display: block;
+    margin-top: 10px;
+    height: 200px;
+    width: 60%;
+}
+
+.Btn {
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.Btn:hover {
+    background-color:cornflowerblue;
+}
+
+.Btn:active {
+    background-color: gray;
+}
