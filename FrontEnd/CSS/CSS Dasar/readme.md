@@ -111,31 +111,49 @@
 <br>
 <br>
 
-**4. Preview Studi Kasus 1**
-<br>
-<br>
-
-
-
-<br>
+**4. Preview Studi Kasus 1 - Berita**
 <br>
 
-<br>
+**Main**
 <br>
 
-
+<img width="1920" height="1080" alt="Screenshot_20261020_112220" src="https://github.com/user-attachments/assets/82e71aab-bdb6-4275-94ea-2c058961b2cd" />
 
 <br>
 <br>
 
-**5. Preview Studi Kasus 2**
+**Content**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261020_112238" src="https://github.com/user-attachments/assets/b4a3e2c1-bd98-467d-a8ea-e60eef230582" />
+
 <br>
 <br>
 
+**5. Preview Studi Kasus 2 - Perpustakaan**
+<br>
 
+**Beranda**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261020_233125" src="https://github.com/user-attachments/assets/3a1042be-f2e7-4df1-a61b-038f04f6f5d3" />
 
 <br>
 <br>
 
- 
+**Buku**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261020_234018" src="https://github.com/user-attachments/assets/4d1c878c-0e67-4461-9408-db3dfd7d5dcd" />
+
+<br>
+<br>
+
+**Kontak**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261020_233147" src="https://github.com/user-attachments/assets/2ea5ec8f-477f-40a4-8670-f948582bcae9" />
+
+<br>
+<br>
  
