@@ -38,6 +38,7 @@
 <br>
 **1. Preview Latihan Soal 1 - String dan Variabel**
 
+<img width="1920" height="1080" alt="Screenshot_20261021_203544" src="https://github.com/user-attachments/assets/6b897539-4d19-4000-b2ef-c923efe02566" />
 
 
 <br>
@@ -47,6 +48,7 @@
 <br>
 <br>
 
+<img width="1920" height="1080" alt="Screenshot_20261021_211511" src="https://github.com/user-attachments/assets/f7c32f76-669d-4e6d-a5d6-6015de8b86d6" />
 
 
 <br>
