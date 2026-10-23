@@ -31,7 +31,43 @@
  sedangkan big int, itu jika kita memiliki angka yang sangat besar dan butuh perhitungan presisi.
  
  jika kita menggunakan parse string ke number, jika number nya di depan maka dapat di ambil tapi jika number di belakang maka hasil nya NaN.
+ 
+**5. Operasi Komperasi**
 
+ di dalam JS ada beberapa oprator yang digunakan, yaitu :
+ 
+ - == , Equality
+ - != , InEquality
+ - === , Strict Equality
+ - !== , InStrict Equality
+ - > , Greater than
+ - >= , Greater Equal than
+ - < , Less than
+ - <= , Less Equal than
+ 
+ Pada Equality dan InEquality saat kita mengkomparasi tipe data number dengan string maka, data string yang dikanan akan otomatis parse ke int
+ 
+ berbeda dengan Strict Equality dan Strict InEquality, saat ada kasus yang sama ia tidak akan mengubah tipe data nya dan mengkomparasi apa ada nya dan lebih spesifik.
+ 
+**6. Ternary Operator**
+
+ Secara sederhana ini adalah versi ringkas dari condional statement if-else, dengan menggunakan format
+ 
+ Variabel hasil = (condition) ? True : False ;
+ 
+**7. Method di Array**
+
+ - join, adalah method untuk meggabungkan isi dalam array dengan parameter separator nya dalam tipe string.
+ - splice, adalah method untuk mengambil atau memindahkan data dari array dengan format index, delele/nodelete, data. 
+ - slice, adalah Method untuk memotong data dari array dengan format index, sebelum index, misal 1,3 maka ia akan mengambil data dari index 1 hingga index sebelum 3. beda nya dengan splice, di slice ia tidak mempengaruhi data yang ada di dalam array.
+ - concat, adalah method untuk menggabungkan 2 array.
+ - includes, adsalah method untuk cek apakah data ada di dalam array.
+ - indexOf, adalah method untuk mengetahui index dari data di dalam array.
+ - sort, adalah method untuk mengurutkan data didalam array, dan untuk mengembalikan urutannya bisa pakai reverse
+
+ **8. Break dan Continue**
+ 
+ Ini du=igunakan di dalam looping Array, fungsi nya seperti nama nya, break untuk menghentika looping ketika kondisi terpebuhi sedangkan continue untuk melewati 1 value berikut nya setelah kondisi terpebuhi
  
 **B. Latihan Soal**
 <br>
