@@ -40,10 +40,6 @@
  - != , InEquality
  - === , Strict Equality
  - !== , InStrict Equality
- - > , Greater than
- - >= , Greater Equal than
- - < , Less than
- - <= , Less Equal than
  
  Pada Equality dan InEquality saat kita mengkomparasi tipe data number dengan string maka, data string yang dikanan akan otomatis parse ke int
  
@@ -90,39 +86,21 @@
 <br>
 <br>
 
-**3. Preview Latihan Soal 3**
+**3. Preview Latihan Soal 3 - kalkulator**
 <br>
 <br>
 
-
-<br>
-<br>
-
-**4. Preview Studi Kasus 1**
-<br>
-<br>
-
-
+<img width="1920" height="1080" alt="Screenshot_20261023_224412" src="https://github.com/user-attachments/assets/dcb3b25c-e5f4-4ba2-97c0-84dde514ecf2" />
 
 <br>
 <br>
 
+ **4. Preview Latihan Soal 4 - to do list**
 <br>
 <br>
 
-
-
-<br>
-<br>
-
-**5. Preview Studi Kasus 2**
-<br>
-<br>
-
-
+<img width="1920" height="1080" alt="Screenshot_20261024_000425" src="https://github.com/user-attachments/assets/90abffe4-98af-46f2-81b8-981cb81c4519" />
 
 <br>
 <br>
-
- 
  
