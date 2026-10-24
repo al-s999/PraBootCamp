@@ -61,9 +61,30 @@
  - indexOf, adalah method untuk mengetahui index dari data di dalam array.
  - sort, adalah method untuk mengurutkan data didalam array, dan untuk mengembalikan urutannya bisa pakai reverse
 
- **8. Break dan Continue**
+**8. Break dan Continue**
  
  Ini du=igunakan di dalam looping Array, fungsi nya seperti nama nya, break untuk menghentika looping ketika kondisi terpebuhi sedangkan continue untuk melewati 1 value berikut nya setelah kondisi terpebuhi
+ 
+**9. Function**
+ 
+ Jadi function ini simple nya sebuah sistem atau program yang dapat digunakan berulang kali tanpa harus menuliskan ulang code nya, hanya cukup memanggil nama function dan mengisi parameter / argument nya jika ada.
+ 
+ function dapat menyimpan sebuah value yang dihasilkan dari funtion itu sendiri dengan menggunakan return value. return value hanya dapat mengembalikan 1 value, jika ingin mengembalikan lebih dari 1 value maka dapat dikembalikan dalam bentuk array.
+ 
+**10. Variabel Scope**
+
+ - Global Scope, mencakup keseluruhan code nya, dan variabel nya digunakan di dalam function atau class.
+ - Local Scope, itu mencakup semua code di dalam 1 fungsi atau class, dan semua Variabel di dalam function tidak dapat di gunakan di global scope.
+ 
+ - Contoh function scope adalah let dan const, dimana ia tidak dapat di gunakan di luar curly bracket.
+ - Untuk Var ia dapat dibaca tanpa batasan scope , atau bisa di bilang global scope.
+ 
+**11. Function Declarative dan Expresion**
+
+ Ada 2 cara membuat function :
+ 
+ - Declarative, ia akan membuat fungsi dengan format function namaFunction() , dan di Declarative walau kita memanggil function nya di atas deklarasi nya, code nya dapat berjalan.
+ - Expresion, ia akan membuat function dengan format Variabel = function() , di sini kita tidak dapat memanggil function nya di atas code fungsi nya, tapi bisa dijalankan jika code nya dibawah function nya.
  
 **B. Latihan Soal**
 <br>
