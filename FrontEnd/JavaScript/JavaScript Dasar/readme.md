@@ -1,6 +1,3 @@
-**A. Teori JavaScript**
-<br>
-<br>
 **1. Apa itu JavaScript ?**
  
  JavaScript adalah file yang mengatur prilaku atau action dari suatu website dengan membuat nya menjadi dinamis dan interaktif.
@@ -124,4 +121,23 @@
 
 <br>
 <br>
- 
+
+ **4. Final-Project - Kasir warkop**
+<br>
+
+**Main Page**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261025_173807" src="https://github.com/user-attachments/assets/25d61acb-27cb-46c1-9e91-188b35049261" />
+<img width="1920" height="1080" alt="Screenshot_20261025_173854" src="https://github.com/user-attachments/assets/184c01da-d5b4-4088-86ef-801529a249cf" />
+
+<br>
+<br>
+
+**Nota Page**
+<br>
+
+<img width="1920" height="1080" alt="Screenshot_20261025_174031" src="https://github.com/user-attachments/assets/516849bd-3aae-4dbe-9889-5d9429b43494" />
+
+
+
