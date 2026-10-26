@@ -1,4 +1,4 @@
-ReactJS
+**ReactJS**
 
 **1. Component**
 
@@ -46,7 +46,7 @@ ReactJS
  
  Conditional rendering in react same with in javascript, like if-else, elements variables, ternary Conditional operator and short circuit operator.
  
-**Lists and Keys**
+**7. Lists and Keys**
 
   Array in react use property and value inside the array, like [{id: value, age: value}{id: value, age: value}]. for show the value we can create variable for save mapping value for that array and call that in parameter function.
  
